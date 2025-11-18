@@ -15,7 +15,7 @@ I'm a Principal Engineer and AI Consultant who loves building end-to-end softwar
 Here are some of the key technologies I'm working with right now:
 
 -   **AI & Machine Learning**: `Python` `Large Language Models (LLMs)` `LangChain` `Vector Databases` `Agents` `Scikit-Learn` `Tensorflow`
--   **Backend**: `Node.js` `TypeScript` `NestJS` `PostgreSQL` `PHP` `Django` `MongoDB` `Supabase`
+-   **Backend**: `Node.js` `TypeScript` `NestJS` `PostgreSQL` `PHP` `Python` `Django` `MongoDB` `Supabase`
 -   **Frontend**: `React` `Next.js` `Vue.js` `Tailwind CSS` `Dart`
 -   **Infrastructure**: `Docker` `Kubernetes` `AWS` `Google Cloud Platform (GCP)` `Vercel` `Firebase` `Apache` `Nginx` `Azure` 
 
