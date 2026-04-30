@@ -6,7 +6,7 @@ I'm a Principal Engineer and AI Consultant who loves building end-to-end softwar
 
 ### 🚀 What I'm Currently Building:
 
--   **[SellScript AI](https://sellscript.ai)**: An AI co-pilot that turns customer reviews into actionable product insights for E-commerce sellers. I'm currently leading the development of the MVP, which is set to launch by the end of 2025.
+-   **[SellScript AI](https://sellscript.ai)**: An AI co-pilot that turns customer reviews into actionable product insights for E-commerce sellers. I'm currently leading the development of the MVP, which is set to launch by the end of 2026.
 
 ---
 
