@@ -7,6 +7,7 @@ I'm a Principal Engineer and AI Consultant who loves building end-to-end softwar
 ### 🚀 What I'm Currently Building:
 
 -   **[B24](https://theb24.com)**: A multi-tenant WhatsApp sales-automation SaaS — an AI sales agent **and** a full lead pipeline that runs on each business's own WhatsApp Business number. It captures every lead, qualifies and quotes, follows up automatically, and hands warm leads to a human team — in 5 languages, with a per-tenant RAG knowledge base so the AI answers only from the business's own content.
+  
 -   **[SellScript AI](https://sellscript.ai)**: An AI co-pilot that turns customer reviews into actionable product insights for E-commerce sellers. I'm currently leading the development of the MVP, which is set to launch by the end of 2026.
 
 ---
